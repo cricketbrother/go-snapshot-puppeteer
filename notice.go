@@ -1,4 +1,4 @@
-package github.com/cricketbrother/GoSnapshotPuppeteer
+package GoSnapshotPuppeteer
 
 import "fmt"
 
