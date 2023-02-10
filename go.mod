@@ -1,4 +1,4 @@
-module github.com/cricketbrother/GoSnapshotPuppeteer
+module GoSnapshotPuppeteer
 
 go 1.20
 
